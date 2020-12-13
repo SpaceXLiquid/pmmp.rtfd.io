@@ -34,7 +34,7 @@ or, if you don't have ``curl``, try ``wget``:
 
     It is recommended to run it as a **normal user** as it doesn't need further permissions.
 
-    **Do not run the installer as root, this is discouraged**.
+    **Do not run the installer as root, this is discouraged**.sss
 	
 .. note::
 
